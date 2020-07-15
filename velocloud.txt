@@ -8,3 +8,6 @@ velowcloud orchestrator
 improved wan performance
 simplified architecture
 cloud on ramp
+
+devnet solution
+devops skill
